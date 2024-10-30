@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "src/one/digitalinnovation"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": []
+}
